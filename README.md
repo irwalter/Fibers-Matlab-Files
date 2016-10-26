@@ -11,6 +11,9 @@ Allows the user to create more nodes in a fiber. It will only allow the user to 
 [Bundle Mover](/bundleMover.m)
 Allows the user to move the bundle as a whole in space. Useful for moldex simulations if the precompression moves the bundle outside of the desired coordinaates.
 
+[Precompression Restart Aid](/PrecompressionRestartAid.m)
+Creates a new input folder if you have to restart a precompression for whatever reason
+
 [Genetic Algorithm](/Genetic-Algorithm)
 Non-deterministic optimization good for optimizing functions with many local extrema.
 
