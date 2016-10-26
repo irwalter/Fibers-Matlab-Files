@@ -13,3 +13,6 @@ Allows the user to move the bundle as a whole in space. Useful for moldex simula
 
 [Genetic Algorithm](/Genetic-Algorithm)
 Non-deterministic optimization good for optimizing functions with many local extrema.
+
+[Optimize Ci and Kappa](/Genetic-Optimization-Ci-and-Kappa)
+Uses genetic algorithm to determine interaction coefficients based on Folgar and Tucker's model.
